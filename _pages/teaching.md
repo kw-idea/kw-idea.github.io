@@ -7,6 +7,67 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Graduate Coursework
 
-Organize your courses by years, topics, or universities, however you like!
+### AI Service development studio (인공지능서비스개발스튜디오)
+
+- 개설년도/학기 : 2023-1, 2025-1
+
+Design Thinking 및 Business canvas 기반의 기획 방법론에 따라 인공지능 서비스를 기획하고, 이를 직접 구현해본다. 인간의 관점에서 시각 (이미지 인식), 청각 (음성, 소리), 이해 (자연어처리), 창조(생성모델)와 관련된 여러 인공지능 모델을 서비스화 하기 위한 개발 방법론을 배운다. 또한 fastAPI 를 통해 인공지능 서비스를 빠르게 구축하고 배포하는 과정을 실습하면서 MLOps의 개념을 익힌다.
+
+### UX analytics (UX 애널리틱스)
+
+- 개설년도/학기 : 2022-2, 2024-1
+
+사용자 경험(UX)을 최적화하기 위해 UX 수준을 측정하고 분석하는 방법에 대해 배우면서 정량 UX 리서처 (Quant UX Researcher) 로서 갖추어야할 능력을 함양한다. 시선추적기, 마우스 움직임, IMU센서, 자세 추정 알고리즘 등을 통해 획득한 행동 데이터와 뇌전도, 심전도, 근전도, 피부저항 등 생리학적 신호를 기반으로 인간의 다양한 상태를 측정하고 분석하는 과정을 실습한다.
+
+### remote healthcare service ux (원격헬스케어서비스UX)
+
+- 개설년도/학기 : 2024-1, 2026-1
+
+원격 헬스케어 서비스의 사용자 경험(User eXperience) 개념 및 평가 방법에 대해 학습한다. 사용자의 외부 자극에 대한 지각-인지에 대한 특징을 학습하고, 이러한 특징이 반영된 사용자 인터페이스 사례를 확인한다. 다양한 UX 평가 방법을 학습한 후, 실제 원격헬스케어 서비스에 적용하여 평가를 진행한다.
+
+### Human-AI Interaction Design (인간-인공지능 상호작용 설계)
+
+- 개설년도/학기 : 2024-2 
+
+본 과목에서는 인간과 인공지능의 상호작용에 대한 연구 동향을 살펴보고, 인공지능과의 상호작용 상황에서의 사용자를 탐구하기 위한 여러 연구 방법론을 익힌다. 본 과목을 통해 학생들은 AI 기술의 기본 개념과 이를 사용자 중심으로 설계하는 방법을 배우게 되고, 체계적이고 과학적인 방식으로 AI 시스템을 설계하고 평가하는 능력을 습득할 수 있다.
+
+### Research methods in HCI (hci연구방법론)
+
+- 개설년도/학기 : 2022-1 
+
+인간-컴퓨터 상호작용 분야에서 연구를 수행하기 위한 여러가지 방법론(설문조사, 인터뷰, 에스노그라피, 사용성평가 등)을 배우고 실습한다. 국제 우수 학술대회 (CHI, UIST, IUI) 에 발표된 논문과 최근 저널에 게재된 연구들을 함께 살펴보며 트렌드를 익히고 인터페이스 개발을 실습해본다.
+
+### topics in HCI and ux (HCI/uX특론)
+
+- 개설년도/학기 : 2023-2
+
+인간-컴퓨터 상호작용(Human-Computer Interaction)과 사용자 경험(User Experience)에 대한 실제적인 기술을 주요 주제별로 나누어 다룹니다. 세미나와 토론을 병행하여 최신 HCI/UX 연구 동향과 산업 동향을 파악하면서, 인공지능 (AI) 기술과 이러한 주제들을 어떻게 융합할 것인지에 대한 답을 찾아나갑니다.
+
+## Undergraduate Coursework
+
+### Experimental Design and Analysis (실험설계및분석)
+
+- 개설년도/학기 : 2021-1, 2022-1, 2023-1, 2024-1, 2025-1
+
+인간을 대상으로 실험을 계획하고, 이를 통해 데이터를 수집하고, 수집한 데이터를 분석하는 법을 다룬다. 최소의 실험횟수에서 최대의 정보를 얻기 위한 통계적 방법과 학문적 이론을 배우게 된다.
+
+### Web service design and Practice (웹서비스설계및실습)
+
+- 개설년도/학기 : 2021-2, 2022-2, 2023-2, 2024-2, 2025-2
+
+웹서비스를 개발하기 위해 필요한 이론/개념 및 프레임워크에 대해 학습한다. CRUD 및 Restful API의 개념을 익히고, javascript 기반의 프레임워크로 실습이 진행될 예정이다.
+
+### Opensource Software (오픈소스 소프트웨어)
+
+- 개설년도/학기 : 2022-2, 2023-1, 2024-1, 2025-1
+
+오픈소스 SW의 기본적인 개념 및 원리에 대해 이해하고, 오픈소스 SW 개발 과정의 각 단계에서 주로 사용되는 도구들의 실무적인 활용 능력을 키운다. (Git, Github, Markdown, Linux, Docker, HuggingFace)
+
+### Information Design and programming (정보디자인프로그래밍실습)
+
+- 개설년도/학기 : 2020-2, 2021-1, 2022-1, 2023-2, 2024-2, 2025-2
+
+정보디자인에 대한 이론을 기반으로 웹 환경에서 정보를 효과적으로 설계하고 시각화하는 방법을 학습한다. (JavaScript 및 React 프레임워크실습)
+
