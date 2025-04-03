@@ -106,6 +106,11 @@ ninja.data = [{
           description: "영어산업학과  HCI UX Data Analytics",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EA%B9%80%EB%8F%99%EC%9C%A4/";
+            },},{id: "peoples-김수민",
+          title: '김수민',
+          description: "정보융합학부  back-end web",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EA%B9%80%EC%88%98%EB%AF%BC/";
             },},{id: "peoples-김수빈",
           title: '김수빈',
           description: "경영학부  back-end web",
