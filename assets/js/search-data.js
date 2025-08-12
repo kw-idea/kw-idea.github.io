@@ -58,11 +58,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-새로운-홈페이지-업데이트",
+        },{id: "post-공모전-수상",
         
-          title: "새로운 홈페이지 업데이트",
+          title: "공모전 수상",
         
-        description: "교육 공공데이터 분석활용대회 우수상 수상",
+        description: "이주희 학부연구생 교육 공공데이터 분석활용대회 우수상 수상",
         section: "Posts",
         handler: () => {
           
@@ -142,11 +142,6 @@ ninja.data = [{
           description: "정보융합학부  HCIML",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%B0%95%EC%A4%80%EC%88%98/";
-            },},{id: "peoples-부형진",
-          title: '부형진',
-          description: "산업심리학과 졸업  HCI ML",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EB%B6%80%ED%98%95%EC%A7%84/";
             },},{id: "peoples-손아현",
           title: '손아현',
           description: "정보융합학부  front-end react web",
@@ -187,8 +182,8 @@ ninja.data = [{
           description: "미디어커뮤니케이션학부  HCIUXData Analytics",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%9D%B4%EC%A3%BC%ED%9D%AC/";
-            },},{id: "peoples-염시훈",
-          title: '염시훈',
+            },},{id: "peoples-이채원",
+          title: '이채원',
           description: "인공지능응용학과석사과정  HCI Accessibility",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%9D%B4%EC%B1%84%EC%9B%90/";
