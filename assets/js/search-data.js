@@ -62,6 +62,17 @@ ninja.data = [{
         
           title: "새로운 홈페이지 업데이트",
         
+        description: "교육 공공데이터 분석활용대회 우수상 수상",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/award/";
+          
+        },
+      },{id: "post-새로운-홈페이지-업데이트",
+        
+          title: "새로운 홈페이지 업데이트",
+        
         description: "welcome !",
         section: "Posts",
         handler: () => {
@@ -118,7 +129,7 @@ ninja.data = [{
               window.location.href = "/peoples/%EA%B9%80%EC%88%98%EB%B9%88/";
             },},{id: "peoples-민희원",
           title: '민희원',
-          description: "정보융합학부학석사연계과정 HCI AI Full-stack",
+          description: "인공지능응용학과석사과정 HCI AI Full-stack",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%AF%BC%ED%9D%AC%EC%9B%90/";
             },},{id: "peoples-박민석",
@@ -153,7 +164,7 @@ ninja.data = [{
               window.location.href = "/peoples/%EC%95%88%EB%8C%80%ED%98%84/";
             },},{id: "peoples-염시훈",
           title: '염시훈',
-          description: "디지털헬스케어학부 졸업  HCI ML",
+          description: "인공지능응용학과석사과정  HCI ML",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%97%BC%EC%8B%9C%ED%9B%88/";
             },},{id: "peoples-오기택",
@@ -176,6 +187,11 @@ ninja.data = [{
           description: "미디어커뮤니케이션학부  HCIUXData Analytics",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%9D%B4%EC%A3%BC%ED%9D%AC/";
+            },},{id: "peoples-염시훈",
+          title: '염시훈',
+          description: "인공지능응용학과석사과정  HCI Accessibility",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EC%9D%B4%EC%B1%84%EC%9B%90/";
             },},{id: "peoples-임주혁",
           title: '임주혁',
           description: "소프트웨어학부  back-end",
