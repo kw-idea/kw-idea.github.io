@@ -2,7 +2,7 @@
 layout: page
 title: ArtVoice
 description: >
-    시각장애인의 예술 접근성 향상을 위한 서비스 개발
+    예술 접근성 향상을 위한 서비스 개발
 img: assets/img/project/artvoice.png
 importance: 1
 category: fun
@@ -21,7 +21,7 @@ category: fun
 
 ---
 
-TBA
+장애인의 예술 접근성 향상 
 
 <br>
 
