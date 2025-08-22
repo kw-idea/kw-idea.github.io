@@ -157,11 +157,6 @@ ninja.data = [{
           description: "미디어커뮤니케이션학부  HCI UX DevOps",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%95%88%EB%8C%80%ED%98%84/";
-            },},{id: "peoples-염시훈",
-          title: '염시훈',
-          description: "인공지능응용학과석사과정  HCI ML",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%97%BC%EC%8B%9C%ED%9B%88/";
             },},{id: "peoples-오기택",
           title: '오기택',
           description: "정보융합학부  ML LLM",
@@ -209,7 +204,7 @@ ninja.data = [{
               window.location.href = "/peoples/%ED%99%A9%EA%B7%9C%EB%AF%BC/";
             },},{id: "projects-artvoice",
           title: 'ArtVoice',
-          description: "시각장애인의 예술 접근성 향상을 위한 서비스 개발",
+          description: "예술 접근성 향상을 위한 서비스 개발",
           section: "Projects",handler: () => {
               window.location.href = "/projects/artvoice/";
             },},{id: "projects-digital-pathology",
