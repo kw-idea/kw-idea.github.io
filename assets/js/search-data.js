@@ -58,7 +58,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-공모전-수상",
+        },{id: "post-서울형-r-amp-d-지원사업-참여기관-선정",
+        
+          title: "서울형 R&amp;D 지원사업 참여기관 선정",
+        
+        description: "약자를 위한 기술개발 및 돌봄로봇 개발 지원사업에 참여기관으로 선정",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/seoul/";
+          
+        },
+      },{id: "post-british-journal-of-educational-technology-저널-게재",
+        
+          title: "British Journal of Educational Technology 저널 게재",
+        
+        description: "교육공학 분야 Top 저널",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bjet/";
+          
+        },
+      },{id: "post-한국데이터마이닝학회-학술대회서-5편-논문-발표",
+        
+          title: "한국데이터마이닝학회 학술대회서 5편 논문 발표",
+        
+        description: "학술대회 참가",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/kdms/";
+          
+        },
+      },{id: "post-한국연구재단-우수신진-과제-선정",
+        
+          title: "한국연구재단 우수신진 과제 선정",
+        
+        description: "Wi-Fi 기반 인간 활동 인식 시스템 개발",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nrf/";
+          
+        },
+      },{id: "post-공모전-수상",
         
           title: "공모전 수상",
         
@@ -67,17 +111,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/award/";
-          
-        },
-      },{id: "post-새로운-홈페이지-업데이트",
-        
-          title: "새로운 홈페이지 업데이트",
-        
-        description: "welcome !",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/update/";
           
         },
       },{id: "post-hci-korea-2025-학회-참가",
@@ -112,11 +145,6 @@ ninja.data = [{
           description: "정보융합학부  HCI LLM",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EA%B0%95%EB%AF%BC%ED%98%81/";
-            },},{id: "peoples-김동윤",
-          title: '김동윤',
-          description: "영어산업학과  HCI UX Data Analytics",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EA%B9%80%EB%8F%99%EC%9C%A4/";
             },},{id: "peoples-김수민",
           title: '김수민',
           description: "정보융합학부  back-end web",
@@ -142,26 +170,11 @@ ninja.data = [{
           description: "정보융합학부  HCIML",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%B0%95%EC%A4%80%EC%88%98/";
-            },},{id: "peoples-손아현",
-          title: '손아현',
-          description: "정보융합학부  front-end react web",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%86%90%EC%95%84%ED%98%84/";
             },},{id: "peoples-심현",
           title: '심현',
           description: "인공지능응용학과석사과정 NLP Full-stack",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%8B%AC%ED%98%84/";
-            },},{id: "peoples-안대현",
-          title: '안대현',
-          description: "미디어커뮤니케이션학부  HCI UX DevOps",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%95%88%EB%8C%80%ED%98%84/";
-            },},{id: "peoples-오기택",
-          title: '오기택',
-          description: "정보융합학부  ML LLM",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%98%A4%EA%B8%B0%ED%83%9D/";
             },},{id: "peoples-오준혁",
           title: '오준혁',
           description: "정보융합학부  back-end web",
@@ -182,11 +195,6 @@ ninja.data = [{
           description: "인공지능응용학과석사과정  HCI Accessibility",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%9D%B4%EC%B1%84%EC%9B%90/";
-            },},{id: "peoples-임주혁",
-          title: '임주혁',
-          description: "소프트웨어학부  back-end",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%9E%84%EC%A3%BC%ED%98%81/";
             },},{id: "peoples-전서연",
           title: '전서연',
           description: "정보융합학부  front-end react web",
