@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 nav: true
 nav_order: 1
-display_categories: [Graduate Student, Undergraduate Research Assistant, Undergraduate Research Engineer (Front/UX Team), Undergraduate Research Engineer (Back/Infra Team), Visiting Researcher,  Alumni]
+display_categories: [Graduate Student, Undergraduate Research Assistant, Undergraduate Research Engineer, Visiting Researcher,  Alumni]
 horizontal: false
 profiles:
   # if you want to include more than one profile, just replicate the following block
