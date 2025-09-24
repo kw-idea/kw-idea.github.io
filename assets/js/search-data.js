@@ -73,7 +73,7 @@ ninja.data = [{
         
           title: "British Journal of Educational Technology 저널 게재",
         
-        description: "교육공학 분야 Top 저널",
+        description: "교육공학 분야 Top 저널 성과 올리다",
         section: "Posts",
         handler: () => {
           
@@ -111,6 +111,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/award/";
+          
+        },
+      },{id: "post-석사과정-3명-학위-수여",
+        
+          title: "석사과정 3명 학위 수여",
+        
+        description: "첫 졸업생 배출",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/grad/";
           
         },
       },{id: "post-hci-korea-2025-학회-참가",
