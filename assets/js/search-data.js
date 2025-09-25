@@ -191,11 +191,6 @@ ninja.data = [{
           description: "정보융합학부  back-end web",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%98%A4%EC%A4%80%ED%98%81/";
-            },},{id: "peoples-이재근",
-          title: '이재근',
-          description: "정보융합학부  front-end react web",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%9D%B4%EC%9E%AC%EA%B7%BC/";
             },},{id: "peoples-이주희",
           title: '이주희',
           description: "미디어커뮤니케이션학부  HCIUXData Analytics",
