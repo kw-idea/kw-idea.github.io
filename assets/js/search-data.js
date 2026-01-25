@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-서울형-r-amp-d-지원사업-참여기관-선정",
+        },{id: "post-jmir-mhealth-and-uhealth-논문-게재",
+        
+          title: "JMIR mHealth and uHealth 논문 게재",
+        
+        description: "모바일 헬스케어 최우수 저널, 서울대학교병원 파킨슨센터와 공동연구 성과",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/jmir/";
+          
+        },
+      },{id: "post-서울형-r-amp-d-지원사업-참여기관-선정",
         
           title: "서울형 R&amp;D 지원사업 참여기관 선정",
         
@@ -156,11 +167,6 @@ ninja.data = [{
           description: "정보융합학부  HCI LLM",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EA%B0%95%EB%AF%BC%ED%98%81/";
-            },},{id: "peoples-김수민",
-          title: '김수민',
-          description: "정보융합학부  back-end web",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EA%B9%80%EC%88%98%EB%AF%BC/";
             },},{id: "peoples-김수빈",
           title: '김수빈',
           description: "경영학부  back-end web",
@@ -176,51 +182,46 @@ ninja.data = [{
           description: "정보융합학부  PM UX CX",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%B0%95%EB%AF%BC%EC%84%9D/";
+            },},{id: "peoples-박서현",
+          title: '박서현',
+          description: "정보융합학부  full-stack web",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EB%B0%95%EC%84%9C%ED%98%84/";
             },},{id: "peoples-박준수",
           title: '박준수',
           description: "정보융합학부  HCIML",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%B0%95%EC%A4%80%EC%88%98/";
+            },},{id: "peoples-배진영",
+          title: '배진영',
+          description: "소프트웨어학부  HCI ML Assistive Technology",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EB%B0%B0%EC%A7%84%EC%98%81/";
             },},{id: "peoples-심현",
           title: '심현',
           description: "인공지능응용학과석사과정 NLP Full-stack",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%8B%AC%ED%98%84/";
-            },},{id: "peoples-오준혁",
-          title: '오준혁',
-          description: "정보융합학부  back-end web",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%98%A4%EC%A4%80%ED%98%81/";
-            },},{id: "peoples-이주희",
-          title: '이주희',
-          description: "미디어커뮤니케이션학부  HCIUXData Analytics",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%9D%B4%EC%A3%BC%ED%9D%AC/";
             },},{id: "peoples-이채원",
           title: '이채원',
           description: "인공지능응용학과석사과정  HCI Accessibility",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%9D%B4%EC%B1%84%EC%9B%90/";
+            },},{id: "peoples-전도윤",
+          title: '전도윤',
+          description: "정보융합학부  AI Data Analytics",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EC%A0%84%EB%8F%84%EC%9C%A4/";
             },},{id: "peoples-전서연",
           title: '전서연',
           description: "정보융합학부  front-end react web",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%A0%84%EC%84%9C%EC%97%B0/";
-            },},{id: "peoples-천성윤",
-          title: '천성윤',
-          description: "정보융합학부  front-end react web",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%B2%9C%EC%84%B1%EC%9C%A4/";
             },},{id: "peoples-황규민",
           title: '황규민',
           description: "인공지능응용학과석사과정 HCI UX CV",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%ED%99%A9%EA%B7%9C%EB%AF%BC/";
-            },},{id: "projects-artvoice",
-          title: 'ArtVoice',
-          description: "예술 접근성 향상을 위한 서비스 개발",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/artvoice/";
             },},{id: "projects-digital-pathology",
           title: 'Digital Pathology',
           description: "병리학 이미지의 편집툴 및 3차원 표현 기술",
@@ -241,31 +242,21 @@ ninja.data = [{
           description: "멀티모달 기술을 활용한 정밀 패션 이미지 검색 시스템 개발",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fashion_AI/";
-            },},{id: "projects-rehabilitation-app",
-          title: 'Rehabilitation App',
-          description: "장애인 재활 체육을 위한 AI 트레이너 앱",
+            },},{id: "projects-machanical-interpretability",
+          title: 'Machanical Interpretability',
+          description: "해석 가능한 LLM과 편향 완화",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/joynt/";
-            },},{id: "projects-online-collaboration-tool",
-          title: 'Online Collaboration Tool',
-          description: "업무 생산성과 프라이버시 간의 갈등 분석",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/online_collabo_tool/";
-            },},{id: "projects-parkinson-39-s-disease",
-          title: 'Parkinson&amp;#39;s Disease',
-          description: "파킨슨병 환자의 일상 운동에 대한 분석",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/pd_analysis/";
-            },},{id: "projects-mhealth-for-parkinsonism",
-          title: 'mHealth for Parkinsonism',
-          description: "파킨슨병 환자들을 위한 재활 운동영상 시청 앱",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/pd_app/";
+              window.location.href = "/projects/machine/";
             },},{id: "projects-gaze-patterns-of-analyst",
           title: 'Gaze Patterns of Analyst',
           description: "프로세스 모델을 해석하는 분석가의 시선 패턴",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pmc/";
+            },},{id: "projects-smart-easel",
+          title: 'Smart Easel',
+          description: "스마트 AI 음성 제어 로봇 이젤 개발 및 실증",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/robot/";
             },},{id: "projects-micro-module-management-system",
           title: 'Micro-module Management System',
           description: "마이크로모듈 관련 행정 지원 시스템",
@@ -273,7 +264,7 @@ ninja.data = [{
               window.location.href = "/projects/share/";
             },},{id: "projects-wi-fi-sensing",
           title: 'Wi-fi Sensing',
-          description: "Wi-Fi 신호를 통한 제스처 및 신체 움직임 인식",
+          description: "Wi-Fi 신호를 통한 신체 움직임 인식",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wifi/";
             },},{
