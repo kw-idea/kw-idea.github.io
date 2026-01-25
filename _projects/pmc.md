@@ -3,7 +3,7 @@ layout: page
 title: Gaze Patterns of Analyst
 description: 프로세스 모델을 해석하는 분석가의 시선 패턴
 img: assets/img/project/pmc.png
-importance: 2
+importance: 6
 category: fun
 ---
 

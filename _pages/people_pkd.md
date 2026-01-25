@@ -8,4 +8,4 @@ Research Interests : `Human-AI Interaction`, `Educational Technology`, `Assistiv
 
 Email : kdpark@kw.ac.kr  &nbsp;&nbsp;&nbsp;&nbsp; Tel : +82-2-940-5638
 
-[Schedule Check](https://zcal.co/kyudong/60min)
+[Schedule Check](https://calendar.app.google/LHuwZeX4R8JuDzgS9)

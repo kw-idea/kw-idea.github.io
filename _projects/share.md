@@ -3,7 +3,7 @@ layout: page
 title: Micro-module Management System
 description: 마이크로모듈 관련 행정 지원 시스템
 img: assets/img/project/share.png
-importance: 2
+importance: 3
 category: fun
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Eye Read
 description: 시선추적 기술을 기반으로 새로운 독서 경험을 제공
 img: assets/img/project/eyeread.png
-importance: 2
+importance: 5
 category: fun
 
 ---
