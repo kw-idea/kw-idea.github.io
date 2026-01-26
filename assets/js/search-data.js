@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-jmir-mhealth-and-uhealth-논문-게재",
+        },{id: "post-hci-korea-2026-학술대회서-5편-발표",
+        
+          title: "HCI Korea 2026 학술대회서 5편 발표",
+        
+        description: "학술대회 참가",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/hci/";
+          
+        },
+      },{id: "post-jmir-mhealth-and-uhealth-논문-게재",
         
           title: "JMIR mHealth and uHealth 논문 게재",
         
