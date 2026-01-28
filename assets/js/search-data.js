@@ -69,6 +69,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/hci/";
           
         },
+      },{id: "post-한국컴퓨터교육학회-학술대회-발표",
+        
+          title: "한국컴퓨터교육학회 학술대회 발표",
+        
+        description: "컴퓨터와 교육의 접점에서 연구성과 발표",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ksce/";
+          
+        },
       },{id: "post-jmir-mhealth-and-uhealth-논문-게재",
         
           title: "JMIR mHealth and uHealth 논문 게재",
