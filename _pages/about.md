@@ -26,7 +26,7 @@ latest_posts:
 
 <br>
 
-We explores 1) artificial intelligence technologies that understand and analyze human behavior in the digital world, and based on this research, 2) develops software that broadly benefits users. With user experience as our core value, we solve challenging problems with creative IDEAS at the intersection of various domains.
+We explores 1) artificial intelligence technologies that understand and analyze human behavior in the digital world, and based on this research, 2) develops software that broadly benefits users. With user experience as our core value, we solve challenging problems with creative IDEAs at the intersection of various domains.
 
 Currently looking for self-motivated, passionate students. If you're interested in joining our lab as a researcher (undergraduate, master's, or PhD level), please check out our [recruitment page](https://kdpark.notion.site/IDEA-Lab-f5ef11264d2a4e8e8d0c5e7469491f06) for more information and feel free to contact us at email (kdpark@kw.ac.kr).
 
