@@ -58,7 +58,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-hci-korea-2026-학술대회서-5편-발표",
+        },{id: "post-주-건융아이비씨-방문해-스마트-로봇-과제-실증-방향-논의",
+        
+          title: "(주)건융아이비씨 방문해 스마트 로봇 과제 실증 방향 논의",
+        
+        description: "보조공학 분야의 AI/AX 협력 구상",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/kunyoong/";
+          
+        },
+      },{id: "post-테크빌교육-주-특강-진행",
+        
+          title: "테크빌교육(주) 특강 진행",
+        
+        description: "AI 시대, 사용자 경험 설계가 에듀테크의 핵심 경쟁력",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tekville/";
+          
+        },
+      },{id: "post-hci-korea-2026-학술대회서-5편-발표",
         
           title: "HCI Korea 2026 학술대회서 5편 발표",
         
@@ -78,6 +100,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/ksce/";
+          
+        },
+      },{id: "post-한국방송미디어공학회-논문-발표-및-연구실-워크샵",
+        
+          title: "한국방송미디어공학회 논문 발표 및 연구실 워크샵",
+        
+        description: "황규민 석사과정 논문 발표",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/conf/";
           
         },
       },{id: "post-jmir-mhealth-and-uhealth-논문-게재",
@@ -146,9 +179,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/award/";
           
         },
-      },{id: "post-석사과정-3명-학위-수여",
+      },{id: "post-석사과정-3명-학위-수여-곽소정-김주현-김호준",
         
-          title: "석사과정 3명 학위 수여",
+          title: "석사과정 3명 학위 수여 (곽소정, 김주현, 김호준)",
         
         description: "첫 졸업생 배출",
         section: "Posts",
@@ -194,6 +227,11 @@ ninja.data = [{
           description: "경영학부  back-end web",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EA%B9%80%EC%88%98%EB%B9%88/";
+            },},{id: "peoples-김준호",
+          title: '김준호',
+          description: "정보융합학부  HCI UX UX Research",
+          section: "Peoples",handler: () => {
+              window.location.href = "/peoples/%EA%B9%80%EC%A4%80%ED%98%B8/";
             },},{id: "peoples-민희원",
           title: '민희원',
           description: "인공지능응용학과석사과정 HCI AI Full-stack",
@@ -219,11 +257,6 @@ ninja.data = [{
           description: "소프트웨어학부  HCI ML Assistive Technology",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EB%B0%B0%EC%A7%84%EC%98%81/";
-            },},{id: "peoples-심현",
-          title: '심현',
-          description: "인공지능응용학과석사과정 NLP Full-stack",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%EC%8B%AC%ED%98%84/";
             },},{id: "peoples-이채원",
           title: '이채원',
           description: "인공지능응용학과석사과정  HCI Accessibility",
@@ -239,11 +272,6 @@ ninja.data = [{
           description: "정보융합학부  front-end react web",
           section: "Peoples",handler: () => {
               window.location.href = "/peoples/%EC%A0%84%EC%84%9C%EC%97%B0/";
-            },},{id: "peoples-황규민",
-          title: '황규민',
-          description: "인공지능응용학과석사과정 HCI UX CV",
-          section: "Peoples",handler: () => {
-              window.location.href = "/peoples/%ED%99%A9%EA%B7%9C%EB%AF%BC/";
             },},{id: "projects-digital-pathology",
           title: 'Digital Pathology',
           description: "병리학 이미지의 편집툴 및 3차원 표현 기술",
@@ -259,11 +287,6 @@ ninja.data = [{
           description: "시선 추적 기반 학습 몰입 및 집중도 파악",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eyeve/";
-            },},{id: "projects-fashion-ai",
-          title: 'Fashion AI',
-          description: "멀티모달 기술을 활용한 정밀 패션 이미지 검색 시스템 개발",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/fashion_AI/";
             },},{id: "projects-machanical-interpretability",
           title: 'Machanical Interpretability',
           description: "해석 가능한 LLM과 편향 완화",
