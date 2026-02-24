@@ -12,6 +12,8 @@ nav_order: 4
 
 ### 2026
 
+Kyudong Park, Heewon Min, Chaewon Lee, and Ki-Young Shin. (2026) From Bias Observation to Bias Manipulation: A Human-Centered Framework for Exploring LLM Internal Behavior. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)
+
 박현우, 천성윤, 유아름, 박규동 (2026) 실시간 온라인 강의 이해도 향상을 위한 양방향 학습 지원 서비스 LEC-Q 설계 및 구현, HCI Korea 2026 학술대회.
 
 박규동, 민희원 (2026) 온라인 협업 도구의 배신: 구조방정식과 합성 페르소나로 규명한 구조적 결함, HCI Korea 2026 학술대회.

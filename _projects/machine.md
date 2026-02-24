@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machanical Interpretability
+title: Mechanistic Interpretability
 description: 해석 가능한 LLM과 편향 완화
 img: assets/img/project/machanical.png
 importance: 1
@@ -43,5 +43,5 @@ TBA
 
 ---
 
-TBA
+Kyudong Park, Heewon Min, Chaewon Lee, and Ki-Young Shin. 2026. From Bias Observation to Bias Manipulation: A Human-Centered Framework for Exploring LLM Internal Behavior. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3772363.3798720
 

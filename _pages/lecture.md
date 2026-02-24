@@ -88,9 +88,9 @@ Design Thinking 및 Business canvas 기반의 기획 방법론에 따라 인공�
 
 ---
 
-##### Opensource Software (오픈소스 소프트웨어)
+##### Opensource Software (오픈소스소프트웨어실습)
 
-`2022-2`, `2023-1`, `2024-1`, `2025-1`
+`2022-2`, `2023-1`, `2024-1`, `2025-1`, `2026-1`
 
 오픈소스 SW의 기본적인 개념 및 원리에 대해 이해하고, 오픈소스 SW 개발 과정의 각 단계에서 주로 사용되는 도구들의 실무적인 활용 능력을 키운다. (Git, Github, Markdown, Linux, Docker, HuggingFace)
 
