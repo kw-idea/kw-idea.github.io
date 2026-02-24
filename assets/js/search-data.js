@@ -58,7 +58,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-주-건융아이비씨-방문해-스마트-로봇-과제-실증-방향-논의",
+        },{id: "post-서울의료원-의료ai세미나에서-발표",
+        
+          title: "서울의료원 의료AI세미나에서 발표",
+        
+        description: "MedGemma LLM 및 Google AI Studio 에 대해 강의",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/smc/";
+          
+        },
+      },{id: "post-석사과정-2명-학위-수여-심현-황규민",
+        
+          title: "석사과정 2명 학위 수여 (심현, 황규민)",
+        
+        description: "CV와 NLP 각각의 영역에서 AI 응용 연구 선보여",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/grad/";
+          
+        },
+      },{id: "post-주-건융아이비씨-방문해-스마트-로봇-과제-실증-방향-논의",
         
           title: "(주)건융아이비씨 방문해 스마트 로봇 과제 실증 방향 논의",
         
@@ -287,8 +309,8 @@ ninja.data = [{
           description: "시선 추적 기반 학습 몰입 및 집중도 파악",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eyeve/";
-            },},{id: "projects-machanical-interpretability",
-          title: 'Machanical Interpretability',
+            },},{id: "projects-mechanistic-interpretability",
+          title: 'Mechanistic Interpretability',
           description: "해석 가능한 LLM과 편향 완화",
           section: "Projects",handler: () => {
               window.location.href = "/projects/machine/";
