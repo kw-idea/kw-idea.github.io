@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chic/";
           },
-        },{id: "post-서울의료원-의료ai세미나에서-발표",
+        },{id: "post-acm-chi-2026-accept",
+        
+          title: "ACM CHI 2026 Accept",
+        
+        description: "LLM 내부 해석을 &#39;인간 중심 탐구 과정&#39;으로 재정립",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/chi/";
+          
+        },
+      },{id: "post-서울의료원-의료ai세미나에서-발표",
         
           title: "서울의료원 의료AI세미나에서 발표",
         
